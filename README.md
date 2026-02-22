@@ -262,16 +262,3 @@ EMAIL_HOST_PASSWORD = 'your_app_password'
 
 ---
 
-## ⚠️ Academic Integrity
-
-This project was independently developed as part of the LPU Python and Full Stack course assessment. All code, logic, and design decisions were made by the student with an understanding of every line written.
-
----
-
-## 📄 License
-
-This project is submitted for academic purposes at Lovely Professional University.
-
----
-
-*Built with ❤️ using Django and Python*
